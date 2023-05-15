@@ -1,4 +1,4 @@
-![输入图片说明](H5.png)# 仿小红书-社区/论坛APP
+# 仿小红书-社区/论坛APP
 
 #### 介绍
 - 一款基于小红书社区/论坛交友系统APP，支持安卓、苹果、小程序、H5端多端适配。前端uniapp跨平台编译，后端使用SpringBoot微服务架构。可自由修改为其他行业内容。
@@ -24,7 +24,7 @@
         <img width="140px" src="https://i.imgtg.com/2023/05/15/OM1jLN.jpg">
       </td>
       <td align="center" valign="middle">
-        <img width="140px" src="![输入图片说明](APP_dl.png)">
+        <img width="140px" src="![APP下载链接](APP_dl.png)">
       </td>
       <td align="center" valign="middle">
          <img width="140px" src="https://foruda.gitee.com/images/1684134206751570898/093ee2ae_911913.png">
