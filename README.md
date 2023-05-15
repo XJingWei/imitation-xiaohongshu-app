@@ -24,7 +24,7 @@
         <img width="140px" src="https://i.imgtg.com/2023/05/15/OM1jLN.jpg">
       </td>
       <td align="center" valign="middle">
-        <img width="140px" src="![APP下载链接](APP_dl.png)">
+        <img width="140px" src="https://foruda.gitee.com/images/1684142126149798124/88f0e045_911913.png">
       </td>
       <td align="center" valign="middle">
          <img width="140px" src="https://foruda.gitee.com/images/1684134206751570898/093ee2ae_911913.png">
