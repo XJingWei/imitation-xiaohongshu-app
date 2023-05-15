@@ -24,7 +24,7 @@
         <img width="140px" src="https://s1.ax1x.com/2023/05/15/p9gyfo9.jpg">
       </td>
       <td align="center" valign="middle">
-        <img width="140px" src="https://foruda.gitee.com/images/1684052614684609431/fbd0b48a_911913.png">
+        <img width="140px" src="https://s1.ax1x.com/2023/05/15/p9gg1i9.png">
       </td>
       <td align="center" valign="middle">
          <img width="140px" src="https://foruda.gitee.com/images/1684134206751570898/093ee2ae_911913.png">
