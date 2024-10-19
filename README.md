@@ -15,6 +15,7 @@
   <tr>
     <th>商用源码购买</th>
     <th>APP端(安卓\苹果APP)</th>
+    <th>小程序端</th>
     <th>手机H5端</th>
   </tr>
   </thead>
@@ -24,7 +25,10 @@
         <img width="140px" src="https://i.imgtg.com/2023/05/15/OM1jLN.jpg">
       </td>
       <td align="center" valign="middle">
-        <img width="140px" src="https://foruda.gitee.com/images/1684142126149798124/88f0e045_911913.png">
+        <img width="140px" src="https://github.com/XJingWei/imitation-xiaohongshu-app/blob/master/APP_dl.png">
+      </td>
+      <td align="center" valign="middle">
+        <img width="140px" src="https://github.com/XJingWei/imitation-xiaohongshu-app/blob/master/wxcode.png">
       </td>
       <td align="center" valign="middle">
          <img width="140px" src="https://foruda.gitee.com/images/1684134206751570898/093ee2ae_911913.png">
@@ -37,9 +41,9 @@
 
 #### 相关链接
 
-- 官网：https://www.chongyou.info
-- 项目演示：https://www.pgyer.com/uOdq
-- 详细功能说明：https://www.yuque.com/ecvnlg/bi6m7t
+- 官网：[https://www.chongyou.info](https://www.chongyou.info)
+- 项目演示：[https://xhs-dw.chongyou.info/](https://xhs-dw.chongyou.info/)
+- 详细功能说明：[https://www.yuque.com/ecvnlg/bi6m7t](https://www.yuque.com/ecvnlg/bi6m7t)
 
 
 #### 软件架构
