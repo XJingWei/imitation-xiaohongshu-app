@@ -28,7 +28,7 @@
         <img width="140px" src="https://github.com/XJingWei/imitation-xiaohongshu-app/blob/master/APP_dl.png">
       </td>
       <td align="center" valign="middle">
-        <img width="140px" src="https://github.com/XJingWei/imitation-xiaohongshu-app/blob/master/wxcode.png">
+        <img width="140px" src="https://github.com/XJingWei/imitation-xiaohongshu-app/blob/master/wxcode.jpg">
       </td>
       <td align="center" valign="middle">
          <img width="140px" src="https://foruda.gitee.com/images/1684134206751570898/093ee2ae_911913.png">
