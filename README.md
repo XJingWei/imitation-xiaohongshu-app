@@ -7,7 +7,7 @@
 
 #### 项目演示
 
-- 管理端： https://www.chongyou.info
+- 管理端： [https://www.chongyou.info/1/product/xhs.html](https://www.chongyou.info/1/product/xhs.html)
 - 扫码体验线上APP效果
 
 <table>
